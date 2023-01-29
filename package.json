@@ -1,0 +1,14 @@
+{
+  "name": "gulp-babel",
+  "version": "1.0.0",
+  "description": "Gulp with babel from https://www.youtube.com/watch?v=M_rEuA0oK8I",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artyom-Starosvetov/gulp-babel.git"
+  },
+  "keywords": ["gulp", "js", "babel", "sass", "pug"],
+  "author": "Artyom Starosvetov",
+  "license": "ISC"
+}
